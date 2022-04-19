@@ -1,7 +1,7 @@
 # Pittsburgh_Neighborhood_Analysis
 Group 57: 
 
-Henry Uz: 
+Henry Uz: heu5@pitt.edu
 Gabriel Lulu: gal62@pitt.edu
 Hanzhang( Jen ) Wang: haw127@pitt.edu
 
