@@ -1,9 +1,9 @@
-# Pittsburgh_Neighborhood_Analysis
-Group 57: 
+# Datasorting and Visualization on Pittsburgh Neighborhoods
 
+Hanzhang( Jen ) Wang: haw127@pitt.edu
 Henry Uz: heu5@pitt.edu
 Gabriel Lulu: gal62@pitt.edu
-Hanzhang( Jen ) Wang: haw127@pitt.edu
+
 
 Jupyter Notebooks that analyze three data sets to determine which Pittsburgh Neighborhood is the best. Our criteria for the best neighborhod is a good place to raise a family. We analyzed public safety, education, and environmental data. 
 
