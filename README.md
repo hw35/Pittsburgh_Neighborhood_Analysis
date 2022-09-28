@@ -1,4 +1,4 @@
-# Datasorting and Visualization on Pittsburgh Neighborhoods
+# Data Sorting and Visualization on Pittsburgh Neighborhoods
 
 Hanzhang( Jen ) Wang: haw127@pitt.edu
 Henry Uz: heu5@pitt.edu
